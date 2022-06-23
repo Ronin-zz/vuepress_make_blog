@@ -1,0 +1,14 @@
+{
+  "name": "vuepress_make_blog",
+  "version": "1.0.0",
+  "description": "vuepress搭建博客",
+  "main": "index.ts",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "ronin",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
